@@ -189,7 +189,7 @@ export const portfolioData = {
       tech: ["MERN Stack", "Razorpay", "Puppeteer", "Email API"],
       image:
         "https://images.unsplash.com/photo-1472851294608-062f824d29cc?q=80&w=1000&auto=format&fit=crop",
-      demo: "https://statuesque-sorbet-5b418e.netlify.app/",
+      demo: "https://elegant-liger-63a045.netlify.app/",
       repo: "https://github.com/mayankcharde/E-Commerce",
       featured: true,
     },
