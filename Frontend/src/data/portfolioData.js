@@ -163,7 +163,7 @@ export const portfolioData = {
       ],
       image:
         "https://images.unsplash.com/photo-1554224155-6726b3ff858f?q=80&w=1000&auto=format&fit=crop",
-      demo: "https://preeminent-bavarois-b1e2d8.netlify.app/",
+      demo: "https://nadt4.vercel.app/",
       repo: "https://github.com/mayankcharde/nadt4",
       featured: true,
     },
@@ -189,7 +189,7 @@ export const portfolioData = {
       tech: ["MERN Stack", "Razorpay", "Puppeteer", "Email API"],
       image:
         "https://images.unsplash.com/photo-1472851294608-062f824d29cc?q=80&w=1000&auto=format&fit=crop",
-      demo: "https://elegant-liger-63a045.netlify.app/",
+      demo: "https://e-commerce-16n95tt0a-mayankchardes-projects.vercel.app/",
       repo: "https://github.com/mayankcharde/E-Commerce",
       featured: true,
     },
@@ -202,7 +202,7 @@ export const portfolioData = {
       tech: ["React", "Node.js", "Gemini API", "Puppeteer", "JWT"],
       image:
         "https://images.unsplash.com/photo-1586281380349-632531db7ed4?q=80&w=1000&auto=format&fit=crop",
-      demo: "https://69ac62fa6e54f38766d2dfea--aiinterviewmodel.netlify.app/",
+      demo: "https://interview-ai-zeta-inky.vercel.app/",
       repo: "https://github.com/mayankcharde/interviewAi",
       featured: false,
     },
@@ -228,7 +228,7 @@ export const portfolioData = {
       tech: ["React.js", "Tailwind CSS", "Framer Motion", "Context API"],
       image:
         "https://images.unsplash.com/photo-1614680376593-902f74cf0d41?q=80&w=1000&auto=format&fit=crop",
-      demo: "https://sprightly-cannoli-d94c81.netlify.app/",
+      demo: "https://spotify-nu-peach.vercel.app/",
       repo: "https://github.com/mayankcharde/spotify",
       featured: false,
     },
@@ -254,7 +254,7 @@ export const portfolioData = {
       tech: ["React.js", "Python", "Flask", "Machine Learning"],
       image:
         "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop",
-      demo: "https://tubular-semifreddo-a24e4a.netlify.app/",
+      demo: "https://demo-house-azure.vercel.app/",
       repo: "https://github.com/mayankcharde/demo_house",
       featured: false,
     },
@@ -267,7 +267,7 @@ export const portfolioData = {
       tech: ["React.js", "Framer Motion", "Tailwind CSS"],
       image:
         "https://images.unsplash.com/photo-1542751371-adc38448a05e?q=80&w=1000&auto=format&fit=crop",
-      demo: "https://webgta6.netlify.app/",
+      demo: "https://gta-6-iota-eight.vercel.app/",
       repo: "https://github.com/mayankcharde/GTA-6-Website",
       featured: false,
     },
@@ -280,7 +280,7 @@ export const portfolioData = {
       tech: ["HTML5", "CSS", "JavaScript", "Weather API"],
       image:
         "https://images.unsplash.com/photo-1592210454359-9043f067919b?q=80&w=1000&auto=format&fit=crop",
-      demo: "https://guileless-kataifi-72b922.netlify.app/",
+      demo: "https://weather-interface-kappa.vercel.app/",
       repo: "https://github.com/mayankcharde/weather-interface",
       featured: false,
     },
@@ -331,7 +331,7 @@ export const portfolioData = {
       tech: ["MERN Stack", "Socket.IO", "QR Code", "Real-time Chat", "Netlify"],
       image:
         "https://images.unsplash.com/photo-1586769852836-bc069f19e1b6?q=80&w=1000&auto=format&fit=crop",
-      demo: "https://regal-cendol-2be6f2.netlify.app/",
+      demo: "https://found-it-jet.vercel.app/",
       repo: "https://github.com/mayankcharde/FoundIt",
       featured: false,
     },
