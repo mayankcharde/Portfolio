@@ -169,6 +169,30 @@ export const portfolioData = {
     },
     {
       id: 2,
+      title: "Literai – Multi-Agent AI Research Assistant",
+      category: "Generative AI",
+      description:
+        "Built a production-ready multi-agent research platform using LangGraph, LangChain, and Mistral AI. The system orchestrates 9 specialized AI agents (Orchestrator, Planner, Searcher, Analyzer, Writer, Fact Checker, Reviewer, Summarizer, Formatter) to conduct comprehensive research on any topic. Features include automated report generation, RAG-based Q&A with source attribution, quality scoring, and user authentication. The platform provides an end-to-end agentic workflow for intelligent, scalable research automation.",
+      tech: [
+        "React",
+        "Node.js",
+        "MongoDB",
+        "Express.js",
+        "FastAPI",
+        "LangGraph",
+        "LangChain",
+        "Mistral AI",
+        "ChromaDB",
+        "REST APIs",
+      ],
+      image:
+        "https://images.unsplash.com/photo-1531746790733-6c0f9f89e8b9?q=80&w=1000&auto=format&fit=crop",
+      demo: "https://literai-neon.vercel.app/",
+      repo: "https://github.com/mayankcharde/literai",
+      featured: true,
+    },
+    {
+      id: 3,
       title: "IntelliBlog – Multi-Agent AI Blog Writing System",
       category: "Generative AI",
       description:
@@ -190,42 +214,42 @@ export const portfolioData = {
       featured: true,
     },
     {
-    id: 3,
-    title: "FoundIt – QR-Enabled Lost & Found Communication Platform",
-    category: "Full Stack Development",
-    description:
-      "Developed a prototype of a QR-powered lost and found platform designed to bridge the gap between Item Owners and Finders. Owners can register belongings and generate unique QR codes, while finders can scan the QR code upon locating an item to instantly establish a secure communication channel. Implemented real-time messaging using Socket.IO, enabling both parties to communicate directly without exposing personal contact information. Built on the MERN stack, the platform demonstrates a scalable and privacy-focused approach to streamlining the item recovery process through QR-based identification and real-time interaction.",
-    tech: [
-      "MERN Stack",
-      "Socket.IO",
-      "QR Code Generation",
-      "Real-Time Communication",
-      "MongoDB",
-      "Express.js",
-      "React",
-      "Node.js"
-    ],
-    image:
-      "https://images.unsplash.com/photo-1586769852836-bc069f19e1b6?q=80&w=1000&auto=format&fit=crop",
-    demo: "https://found-it-jet.vercel.app/",
-    repo: "https://github.com/mayankcharde/FoundIt",
-    featured: true,
-  },
-  {
-    id: 4,
-    title: "Gen AI Job Prep Platform",
-    category: "Artificial Intelligence",
-    description:
-      "Helping job seekers with ATS-optimized resumes and Gemini-powered interview questions based on job descriptions.",
-    tech: ["React", "Node.js", "Gemini API", "Puppeteer", "JWT"],
-    image:
-      "https://images.unsplash.com/photo-1586281380349-632531db7ed4?q=80&w=1000&auto=format&fit=crop",
-    demo: "https://interview-ai-zeta-inky.vercel.app/",
-    repo: "https://github.com/mayankcharde/interviewAi",
-    featured: false,
-  },
+      id: 4,
+      title: "FoundIt – QR-Enabled Lost & Found Communication Platform",
+      category: "Full Stack Development",
+      description:
+        "Developed a prototype of a QR-powered lost and found platform designed to bridge the gap between Item Owners and Finders. Owners can register belongings and generate unique QR codes, while finders can scan the QR code upon locating an item to instantly establish a secure communication channel. Implemented real-time messaging using Socket.IO, enabling both parties to communicate directly without exposing personal contact information. Built on the MERN stack, the platform demonstrates a scalable and privacy-focused approach to streamlining the item recovery process through QR-based identification and real-time interaction.",
+      tech: [
+        "MERN Stack",
+        "Socket.IO",
+        "QR Code Generation",
+        "Real-Time Communication",
+        "MongoDB",
+        "Express.js",
+        "React",
+        "Node.js",
+      ],
+      image:
+        "https://images.unsplash.com/photo-1586769852836-bc069f19e1b6?q=80&w=1000&auto=format&fit=crop",
+      demo: "https://found-it-jet.vercel.app/",
+      repo: "https://github.com/mayankcharde/FoundIt",
+      featured: true,
+    },
     {
       id: 5,
+      title: "Gen AI Job Prep Platform",
+      category: "Artificial Intelligence",
+      description:
+        "Helping job seekers with ATS-optimized resumes and Gemini-powered interview questions based on job descriptions.",
+      tech: ["React", "Node.js", "Gemini API", "Puppeteer", "JWT"],
+      image:
+        "https://images.unsplash.com/photo-1586281380349-632531db7ed4?q=80&w=1000&auto=format&fit=crop",
+      demo: "https://interview-ai-zeta-inky.vercel.app/",
+      repo: "https://github.com/mayankcharde/interviewAi",
+      featured: false,
+    },
+    {
+      id: 6,
       title: "DeepSeek AI Clone",
       category: "Artificial Intelligence",
       description:
@@ -238,7 +262,7 @@ export const portfolioData = {
       featured: true,
     },
     {
-      id: 6,
+      id: 7,
       title: "E Store - Modern E-Commerce",
       category: "Full Stack",
       description:
@@ -251,7 +275,7 @@ export const portfolioData = {
       featured: true,
     },
     {
-      id: 7,
+      id: 8,
       title: "MovieGenie - ML Suggestion",
       category: "Artificial Intelligence",
       description:
@@ -264,7 +288,7 @@ export const portfolioData = {
       featured: false,
     },
     {
-      id: 8,
+      id: 9,
       title: "Spotify Cloud Clone",
       category: "Full Stack",
       description:
@@ -277,7 +301,7 @@ export const portfolioData = {
       featured: false,
     },
     {
-      id: 9,
+      id: 10,
       title: "Code Reviewer",
       category: "Artificial Intelligence",
       description:
@@ -290,7 +314,7 @@ export const portfolioData = {
       featured: false,
     },
     {
-      id: 10,
+      id: 11,
       title: "House Price Prediction",
       category: "Artificial Intelligence",
       description:
@@ -303,7 +327,7 @@ export const portfolioData = {
       featured: false,
     },
     {
-      id: 11,
+      id: 12,
       title: "GTA 6 Website",
       category: "Frontend/UI",
       description:
@@ -316,7 +340,7 @@ export const portfolioData = {
       featured: false,
     },
     {
-      id: 12,
+      id: 13,
       title: "Weather App",
       category: "Web Development",
       description:
@@ -329,7 +353,7 @@ export const portfolioData = {
       featured: false,
     },
     {
-      id: 13,
+      id: 14,
       title: "DermSight – AI Skin Health System",
       category: "Artificial Intelligence",
       description:
@@ -341,7 +365,7 @@ export const portfolioData = {
       featured: false,
     },
     {
-      id: 14,
+      id: 15,
       title: "Fire & Smoke Detection System",
       category: "Artificial Intelligence",
       description:
