@@ -257,7 +257,7 @@ export const portfolioData = {
       tech: ["MERN Stack", "Gemini API", "Razorpay", "Speech-to-Text", "CDN"],
       image:
         "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=1000&auto=format&fit=crop",
-      demo: "#",
+      demo: "https://final-deepseek-2.vercel.app/",
       repo: "https://github.com/mayankcharde/FINAL-DEEPSEEK2",
       featured: true,
     },
